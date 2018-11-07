@@ -13,20 +13,20 @@
 	<link href="https://fonts.googleapis.com/css?family=Hind:400,700" rel="stylesheet">
 
 	<!-- Bootstrap -->
-	<link type="text/css" rel="stylesheet" href="http://localhost/otomotoshop/index/assets/css/bootstrap.min.css" />
+        <link type="text/css" rel="stylesheet" href= "<?= BASEURL?>/assets/css/bootstrap.min.css" />
 
 	<!-- Slick -->
-	<link type="text/css" rel="stylesheet" href="http://localhost/otomotoshop/index/assets/css/slick.css" />
-	<link type="text/css" rel="stylesheet" href="http://localhost/otomotoshop/index/assets/css/slick-theme.css" />
+        <link type="text/css" rel="stylesheet" href="<?= BASEURL ?>/assets/css/slick.css" />
+        <link type="text/css" rel="stylesheet" href="<?= BASEURL ?>/assets/css/slick-theme.css" />
 
 	<!-- nouislider -->
-	<link type="text/css" rel="stylesheet" href="http://localhost/otomotoshop/index/assets/css/nouislider.min.css" />
+        <link type="text/css" rel="stylesheet" href="<?= BASEURL ?>/assets/css/nouislider.min.css" />
 
 	<!-- Font Awesome Icon -->
-	<link rel="stylesheet" href="http://localhost/otomotoshop/index/assets/css/font-awesome.min.css">
+        <link rel="stylesheet" href="<?= BASEURL ?>/assets/css/font-awesome.min.css">
 
 	<!-- Custom stlylesheet -->
-	<link type="text/css" rel="stylesheet" href="http://localhost/otomotoshop/index/assets/css/style.css" />
+        <link type="text/css" rel="stylesheet" href="<?= BASEURL ?>/assets/css/style.css" />
 
 	<!-- HTML5 shim and Respond.js for IE8 support of HTML5 elements and media queries -->
 	<!-- WARNING: Respond.js doesn't work if you view the page via file:// -->
@@ -1476,12 +1476,12 @@
 	<!-- /FOOTER -->
 
 	<!-- jQuery Plugins -->
-	<script src="http://localhost/otomotoshop/index/assets/js/jquery.min.js"></script>
-	<script src="http://localhost/otomotoshop/index/assets/js/bootstrap.min.js"></script>
-	<script src="http://localhost/otomotoshop/index/assets/js/slick.min.js"></script>
-	<script src="http://localhost/otomotoshop/index/assets/js/nouislider.min.js"></script>
-	<script src="http://localhost/otomotoshop/index/assets/js/jquery.zoom.min.js"></script>
-	<script src="http://localhost/otomotoshop/index/assets/js/main.js"></script>
+        <script src="<?= BASEURL ?>/assets/js/jquery.min.js"></script>
+	<script src="<?= BASEURL ?>/assets/js/bootstrap.min.js"></script>
+	<script src="<?= BASEURL ?>/assets/js/slick.min.js"></script>
+	<script src="<?= BASEURL ?>/assets/js/nouislider.min.js"></script>
+	<script src="<?= BASEURL ?>/assets/js/jquery.zoom.min.js"></script>
+	<script src="<?= BASEURL ?>/assets/js/main.js"></script>
 
 </body>
 

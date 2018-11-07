@@ -1,6 +1,6 @@
 <?php
 
-define('URLBASE', 'http://localhost/otomotoshop/index');
+define('BASEURL', 'http://localhost/otomotoshop/index');
 
 //untuk database
 define('DB_HOST', 'localhost');
