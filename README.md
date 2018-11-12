@@ -6,3 +6,5 @@ tinggalkan zona nyaman dulu untuk masa depan yang lebih cerah
 
 
 ayoo jangan mepet deadline guys
+
+ttp semangat walau ada error
